@@ -1,0 +1,49 @@
+0000000000000000000000000000000000000000 e24a8f5892af8f330158b582edb1097b0160f341 Cristhiam Alexis <system123sac@gmail.com> 1558650766 -0500	clone: from https://gitlab.com/edwing8957/dental
+e24a8f5892af8f330158b582edb1097b0160f341 142aea52d22644dee4cf888ae107db86bd708bd2 Cristhiam Alexis <system123sac@gmail.com> 1558651508 -0500	checkout: moving from master to desarrollo
+142aea52d22644dee4cf888ae107db86bd708bd2 142aea52d22644dee4cf888ae107db86bd708bd2 Cristhiam Alexis <system123sac@gmail.com> 1558651520 -0500	checkout: moving from desarrollo to sagitariuscris
+142aea52d22644dee4cf888ae107db86bd708bd2 f4c2642dd5dd73000cea5ce19cb08b515aade977 Cristhiam Alexis <system123sac@gmail.com> 1558680756 -0500	commit: 24052019
+f4c2642dd5dd73000cea5ce19cb08b515aade977 e3b47d2f3e87b9582f7ee45a641eb2f5eddc304f Cristhiam Alexis <system123sac@gmail.com> 1561319065 -0500	commit: 23062019 CHRISTIAM
+e3b47d2f3e87b9582f7ee45a641eb2f5eddc304f 142aea52d22644dee4cf888ae107db86bd708bd2 Cristhiam Alexis <system123sac@gmail.com> 1561438327 -0500	checkout: moving from sagitariuscris to desarrollo
+142aea52d22644dee4cf888ae107db86bd708bd2 142aea52d22644dee4cf888ae107db86bd708bd2 Cristhiam Alexis <system123sac@gmail.com> 1561438409 -0500	delete_branch: sagitariuscris origin/sagitariuscris [e3b47d2f3e87b9582f7ee45a641eb2f5eddc304f]
+142aea52d22644dee4cf888ae107db86bd708bd2 142aea52d22644dee4cf888ae107db86bd708bd2 Cristhiam Alexis <system123sac@gmail.com> 1561438482 -0500	checkout: moving from desarrollo to sagitario2020
+142aea52d22644dee4cf888ae107db86bd708bd2 e24a8f5892af8f330158b582edb1097b0160f341 Cristhiam Alexis <system123sac@gmail.com> 1561439013 -0500	checkout: moving from sagitario2020 to master
+e24a8f5892af8f330158b582edb1097b0160f341 27b7c31430253a13c1f471812a5b61477c3486ad Cristhiam Alexis <system123sac@gmail.com> 1561439020 -0500	Fast forward branch master to branch master
+27b7c31430253a13c1f471812a5b61477c3486ad 142aea52d22644dee4cf888ae107db86bd708bd2 Cristhiam Alexis <system123sac@gmail.com> 1561439027 -0500	checkout: moving from master to desarrollo
+142aea52d22644dee4cf888ae107db86bd708bd2 6fb2d7443852aca6d8a83f9e491df61c2e8aae9e Cristhiam Alexis <system123sac@gmail.com> 1561439034 -0500	Fast forward branch desarrollo to branch desarrollo
+6fb2d7443852aca6d8a83f9e491df61c2e8aae9e 6fb2d7443852aca6d8a83f9e491df61c2e8aae9e Cristhiam Alexis <system123sac@gmail.com> 1561439100 -0500	delete_branch: sagitario2020 [142aea52d22644dee4cf888ae107db86bd708bd2]
+6fb2d7443852aca6d8a83f9e491df61c2e8aae9e 6fb2d7443852aca6d8a83f9e491df61c2e8aae9e Cristhiam Alexis <system123sac@gmail.com> 1561439113 -0500	checkout: moving from desarrollo to sagitario21
+6fb2d7443852aca6d8a83f9e491df61c2e8aae9e 6fb2d7443852aca6d8a83f9e491df61c2e8aae9e Cristhiam Alexis <system123sac@gmail.com> 1561768702 -0500	checkout: moving from sagitario21 to desarrollo
+6fb2d7443852aca6d8a83f9e491df61c2e8aae9e 6fb2d7443852aca6d8a83f9e491df61c2e8aae9e Cristhiam Alexis <system123sac@gmail.com> 1561768747 -0500	delete_branch: sagitario21 [6fb2d7443852aca6d8a83f9e491df61c2e8aae9e]
+6fb2d7443852aca6d8a83f9e491df61c2e8aae9e e569ce873b2ebbe44e543c97a6add59b75309e4a Cristhiam Alexis <system123sac@gmail.com> 1561768762 -0500	Fast forward branch desarrollo to branch desarrollo
+e569ce873b2ebbe44e543c97a6add59b75309e4a e569ce873b2ebbe44e543c97a6add59b75309e4a Cristhiam Alexis <system123sac@gmail.com> 1561768790 -0500	checkout: moving from desarrollo to pegasus1987
+e569ce873b2ebbe44e543c97a6add59b75309e4a e569ce873b2ebbe44e543c97a6add59b75309e4a Cristhiam Alexis <system123sac@gmail.com> 1561769608 -0500	checkout: moving from pegasus1987 to desarrollo
+e569ce873b2ebbe44e543c97a6add59b75309e4a 9766c5202cae12c3fb5c08412ab3adc1d591b5f1 Cristhiam Alexis <system123sac@gmail.com> 1562786468 -0500	commit: 10072019
+9766c5202cae12c3fb5c08412ab3adc1d591b5f1 a3a4898a41157c5496183cc1e50817552d7c0148 Cristhiam Alexis <system123sac@gmail.com> 1562786486 -0500	commit (merge): Merge remote-tracking branch 'origin/desarrollo' into desarrollo
+a3a4898a41157c5496183cc1e50817552d7c0148 d8645ff007891763273c2f96953231d40958376f Cristhiam Alexis <system123sac@gmail.com> 1562791009 -0500	Fast forward branch desarrollo to branch desarrollo
+d8645ff007891763273c2f96953231d40958376f d8645ff007891763273c2f96953231d40958376f Cristhiam Alexis <system123sac@gmail.com> 1562792327 -0500	checkout: moving from desarrollo to sagitarius2019
+d8645ff007891763273c2f96953231d40958376f 41e75f017d25cf21ce1ed7e6c7c99082ddeef608 Cristhiam Alexis <system123sac@gmail.com> 1562792366 -0500	commit: 10072019
+41e75f017d25cf21ce1ed7e6c7c99082ddeef608 2b4d7e1a35f3640310be240cf7c8a29f76e8d20e Cristhiam Alexis <system123sac@gmail.com> 1563337738 -0500	commit: 16072019-CHRISTIAM
+2b4d7e1a35f3640310be240cf7c8a29f76e8d20e e7bb5ae1b5443f49c5a9ba80e156ddf3481efeeb Cristhiam Alexis <system123sac@gmail.com> 1563480522 -0500	commit: 18072019-CHRISTIAMSAONA
+e7bb5ae1b5443f49c5a9ba80e156ddf3481efeeb d8645ff007891763273c2f96953231d40958376f Cristhiam Alexis <system123sac@gmail.com> 1563480704 -0500	checkout: moving from sagitarius2019 to desarrollo
+d8645ff007891763273c2f96953231d40958376f 33e7702f50f512ab11d7e7c97309b2d7d78c4c99 Cristhiam Alexis <system123sac@gmail.com> 1563480713 -0500	Fast forward branch desarrollo to branch desarrollo
+33e7702f50f512ab11d7e7c97309b2d7d78c4c99 33e7702f50f512ab11d7e7c97309b2d7d78c4c99 Cristhiam Alexis <system123sac@gmail.com> 1563480749 -0500	checkout: moving from desarrollo to taurus2019
+33e7702f50f512ab11d7e7c97309b2d7d78c4c99 33e7702f50f512ab11d7e7c97309b2d7d78c4c99 Cristhiam Alexis <system123sac@gmail.com> 1563481110 -0500	delete_branch: sagitarius2019 origin/sagitarius2019 [e7bb5ae1b5443f49c5a9ba80e156ddf3481efeeb]
+33e7702f50f512ab11d7e7c97309b2d7d78c4c99 3238c01d4765be4dc105dceb5c5c0f38652469fc Cristhiam Alexis <system123sac@gmail.com> 1563913523 -0500	commit: 23072019-Dental
+3238c01d4765be4dc105dceb5c5c0f38652469fc 33e7702f50f512ab11d7e7c97309b2d7d78c4c99 Cristhiam Alexis <system123sac@gmail.com> 1563914115 -0500	checkout: moving from taurus2019 to desarrollo
+33e7702f50f512ab11d7e7c97309b2d7d78c4c99 77afb4fd5e29f7d6323d8a983093b62d7e1f9f21 Cristhiam Alexis <system123sac@gmail.com> 1563914124 -0500	Fast forward branch desarrollo to branch desarrollo
+77afb4fd5e29f7d6323d8a983093b62d7e1f9f21 77afb4fd5e29f7d6323d8a983093b62d7e1f9f21 Cristhiam Alexis <system123sac@gmail.com> 1563914836 -0500	checkout: moving from desarrollo to cancer20191
+77afb4fd5e29f7d6323d8a983093b62d7e1f9f21 77afb4fd5e29f7d6323d8a983093b62d7e1f9f21 Cristhiam Alexis <system123sac@gmail.com> 1563914852 -0500	delete_branch: taurus2019 origin/taurus2019 [3238c01d4765be4dc105dceb5c5c0f38652469fc]
+77afb4fd5e29f7d6323d8a983093b62d7e1f9f21 6a9dcc17755543a17729815848ef6a672aba3d67 Cristhiam Alexis <system123sac@gmail.com> 1564012315 -0500	commit: 24072019 cris
+6a9dcc17755543a17729815848ef6a672aba3d67 77afb4fd5e29f7d6323d8a983093b62d7e1f9f21 Cristhiam Alexis <system123sac@gmail.com> 1564012398 -0500	checkout: moving from cancer20191 to desarrollo
+77afb4fd5e29f7d6323d8a983093b62d7e1f9f21 f1d632b0c43c1e50dcc902fcdb80874b8bb6734d Cristhiam Alexis <system123sac@gmail.com> 1564012405 -0500	Fast forward branch desarrollo to branch desarrollo
+f1d632b0c43c1e50dcc902fcdb80874b8bb6734d 27b7c31430253a13c1f471812a5b61477c3486ad Cristhiam Alexis <system123sac@gmail.com> 1564012420 -0500	checkout: moving from desarrollo to master
+27b7c31430253a13c1f471812a5b61477c3486ad 818f487ba32142a51b3b8606446ffebd4366b982 Cristhiam Alexis <system123sac@gmail.com> 1564012608 -0500	Fast forward branch master to branch master
+818f487ba32142a51b3b8606446ffebd4366b982 f1d632b0c43c1e50dcc902fcdb80874b8bb6734d Cristhiam Alexis <system123sac@gmail.com> 1564012652 -0500	checkout: moving from master to desarrollo
+f1d632b0c43c1e50dcc902fcdb80874b8bb6734d 888fb7fc09f955f88d2dfe68666d092b30e06922 Cristhiam Alexis <system123sac@gmail.com> 1564012664 -0500	Fast forward branch desarrollo to branch desarrollo
+888fb7fc09f955f88d2dfe68666d092b30e06922 888fb7fc09f955f88d2dfe68666d092b30e06922 Cristhiam Alexis <system123sac@gmail.com> 1564012693 -0500	delete_branch: cancer20191 origin/cancer20191 [6a9dcc17755543a17729815848ef6a672aba3d67]
+888fb7fc09f955f88d2dfe68666d092b30e06922 888fb7fc09f955f88d2dfe68666d092b30e06922 Cristhiam Alexis <system123sac@gmail.com> 1564012710 -0500	delete_branch: pegasus1987 [e569ce873b2ebbe44e543c97a6add59b75309e4a]
+888fb7fc09f955f88d2dfe68666d092b30e06922 888fb7fc09f955f88d2dfe68666d092b30e06922 Cristhiam Alexis <system123sac@gmail.com> 1564014761 -0500	discard: [f00c408f9a6671e723a390fa21150c7d5ee4c7b0]
+888fb7fc09f955f88d2dfe68666d092b30e06922 888fb7fc09f955f88d2dfe68666d092b30e06922 Cristhiam Alexis <system123sac@gmail.com> 1564014822 -0500	checkout: moving from desarrollo to crisusagi
+888fb7fc09f955f88d2dfe68666d092b30e06922 f84dfe0caecadb8087af1d4e64a661de0bcd5ca6 Cristhiam Alexis <system123sac@gmail.com> 1568139102 -0500	reset: moving to f84dfe0caecadb8087af1d4e64a661de0bcd5ca6 [7e8ca5704fb95ba663a32ea82f79e160ddbecede]
+f84dfe0caecadb8087af1d4e64a661de0bcd5ca6 5e1d016608a7aa0208e8eb6d190a0fc407d6912d Cristhiam Alexis <system123sac@gmail.com> 1568139109 -0500	reset: moving to 5e1d016608a7aa0208e8eb6d190a0fc407d6912d [76ddde928ea9210c4ba6439d598d3e4324b341b7]
+5e1d016608a7aa0208e8eb6d190a0fc407d6912d 5e1d016608a7aa0208e8eb6d190a0fc407d6912d Cristhiam Alexis <system123sac@gmail.com> 1568231254 -0500	discard: [00f4d3fc9f5cc441e7e9b2633d8dc8c52179e66d]
